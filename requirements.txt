@@ -1,0 +1,4 @@
+pandas
+request
+bs4
+tqdm
